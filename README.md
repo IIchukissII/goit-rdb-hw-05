@@ -93,3 +93,4 @@ SELECT
 FROM 
     order_details;
 ```
+![](./img/5.PNG)
